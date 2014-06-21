@@ -1,0 +1,14 @@
+-lib gd
+-cp src
+-cpp bin
+-main gd.Main
+-dce full
+
+
+-D no-macro-cache
+-D no-debug
+
+# -D no-compilation
+-cmd rm out.png
+-cmd bin/Main
+-cmd display out.png

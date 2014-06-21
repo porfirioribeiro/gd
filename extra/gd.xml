@@ -1,0 +1,14 @@
+<xml>
+	<target id="haxe">
+		<lib name="-lgd"/>
+	</target>
+	<files id="haxe">
+		<compilerflag value="-I../extra"/>
+<!-- 		<file name="../extra/gd_filename.c">
+			<depend name="../extra/gd_ext.h"/>
+		</file>	 -->	
+		<file name="../extra/gd_ext.c">
+			<depend name="../extra/gd_ext.h"/>
+		</file>
+	</files>
+</xml>

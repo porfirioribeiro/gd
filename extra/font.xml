@@ -1,0 +1,9 @@
+<xml>
+	<files id="haxe">
+		<file name="../extra/gd-libgd/src/gdfontg.c" />
+		<file name="../extra/gd-libgd/src/gdfontl.c" />
+		<file name="../extra/gd-libgd/src/gdfontmb.c" />
+		<file name="../extra/gd-libgd/src/gdfonts.c" />
+		<file name="../extra/gd-libgd/src/gdfontt.c" />
+	</files>
+</xml>

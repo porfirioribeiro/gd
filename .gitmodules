@@ -1,0 +1,3 @@
+[submodule "extra/gd-libgd"]
+	path = extra/gd-libgd
+	url = https://bitbucket.org/libgd/gd-libgd.git
